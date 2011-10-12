@@ -1,0 +1,7 @@
+(C) Copyright bheesham persaud 2005 - 2011
+
+the contents of this file will briefly explain the certain bots, services and other tools used in order to make http://*.file-empire.com fully operational.
+
+bots/download/	: downloads the .torrent file, stores it in memory temporarily and then proceeds to parse it.
+bots/url/		: crawls the torrent website and gets torrent information URLs
+www/			: the front end (search index)

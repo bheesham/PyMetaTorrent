@@ -1,0 +1,7 @@
+[database]
+host = 127.0.0.1
+port = 27017
+user = admin
+passw = 123456
+name = fileempire
+
