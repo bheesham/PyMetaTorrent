@@ -1,0 +1,15 @@
+Copyright (C) 2011 Bheesham Persaud.
+All parts of PyMetaTorrent are considered to be 
+BeerWare <http://en.wikipedia.org/wiki/Beerware>
+
+This software is provided without any warranty.
+
+NOTE: Not under active development.
+
+The contents of this file will briefly explain the certain bots, 
+services and other tools used in order to make a torrent meta search engine.
+
+bots/url/		: Crawls a torrent website and gets torrent information URLs.
+bots/download/	: Downloads a .torrent file, stores it in a database.
+www/			: The front end (search index)
+
